@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+.card {
+    width: 500px;
+    height: fit-content;
+    border: 3px solid black;
+    border-radius: 25px;
+    background-color: aliceblue;
+    margin: 10px;
+}
+
+.card_imagem {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.card_imagem img {
+    width: 60%;
+    height: 70%;
+}
+
+.card_titulo {
+    font-size: 35px
+}
+
+.card_titulo .card_titulo_nome {
+    color: purple
+}
+
+.card_mensagem {
+    font-weight: bold;
+    font-weight: italic;
+    color: #b11a1a
+}
